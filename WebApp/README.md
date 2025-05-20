@@ -1,9 +1,3 @@
-# CSYE 6225 Network Structure & Cloud Computing- Spring 2023
-
-## Owner Information
-
-| Name | NEU ID | Email Address |  
-| PeizhenLiao | 002764269 | liao.pe@neu.edu |  
 
 ## Technology Stack
 
