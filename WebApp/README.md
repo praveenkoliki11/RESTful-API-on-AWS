@@ -6,7 +6,7 @@
 
 ## Build Instructions
 
-1. In Command Prompt, clone the project using ` git clone git@github.com:PeggyLiao-NEU/webapp.git `
+1. In Command Prompt, clone the project using ' git clone https://github.com/praveenkoliki11/RESTful-API-on-AWS.git '
 2. Enter the folder in your local `yourpath/webapp/`
 3. run `npm install`
 4. run application by `npm run both`
