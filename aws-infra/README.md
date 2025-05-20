@@ -1,17 +1,12 @@
 # aws-infra
 
-## Owner Information
-
-| Name | NEU ID | Email Address |  
-| PeizhenLiao | 002764269 | liao.pe@neu.edu |  
-
 ## Technology Stack
 ### Building VPCs: Terraform
 
 ## Build Instructions
 
 1. Activate the access key in AWS console
-2. Clone the project using ` git clone git@github.com:PeggyLiao-NEU/aws-infra.git `
+2. Clone the project using ` git clone https://github.com/praveenkoliki11/RESTful-API-on-AWS.git `
 3. in console: ` terraform init `
 ### in dev profile
    1. Format & Init & Plan Terraform: ` terraform fmt && terraform init && terraform plan --var-file="vpc.tfvars.dev" `
